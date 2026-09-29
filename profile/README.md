@@ -1,7 +1,5 @@
 # 👋 Welcome to TeamAudiyo
 
-**Audio Models for the Agentic Era** 🎵🤖
-
 Founded in 2026, TeamAudiyo is an American machine learning company dedicated to building open-source audio models and inferencing engines. We bridge the gap between generative audio and autonomous agents, creating tools that enable machines to listen, generate, and interact with sound in real-time.
 
 ## 🚀 Flagship Projects
@@ -36,5 +34,5 @@ Recent highlights include our 2B Text-to-Audio model and the Boomslang series.
 ---
 
 <p align="center">
-  <i>Making Machine Learning models accessible, open, and agentic.</i>
+  <i>Audio Models for the Agentic Era 🎵🤖.</i>
 </p>
