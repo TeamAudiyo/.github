@@ -6,7 +6,7 @@ Founded in 2026, TeamAudiyo is an American machine learning company dedicated to
 
 - 🔊 **[Audiyo](https://github.com/TeamAudiyo/Audiyo)** - Full fine-tuning & inference engine for Stable Audio Open & MiniMax-Music3 (GGUF).
 - 🦾 **[Jolly](https://github.com/TeamAudiyo/Jolly)** - Lightweight, terminal-native 3D robot arm physics simulator built for LLM agents.
-- 🤗 **[Hugging Face Org](https://huggingface.co/TeamAudiyo)** - Home of our Text-to-Audio models and the Boomslang series.
+- 🤗 **[Hugging Face Org](https://huggingface.co/TeamAudiyo)** - Home of our Text-to-Audio models.
 
 ## 📫 Get in Touch
 
